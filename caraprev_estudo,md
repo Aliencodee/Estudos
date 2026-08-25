@@ -40,7 +40,7 @@
 
 ## 2. CONHECIMENTOS ESPECÍFICOS — TI (peso máximo, 15 questões)
 
-### 2.1 Arquitetura de Computadores *(ponto forte)*
+### 2.1 Arquitetura de Computadores *(ponto forte)* **SIMULADO 7/10**
 - Modelo de Von Neumann: CPU (UC + ULA + Registradores), Memória, Barramentos, E/S ✅
 - Ciclo de instrução: Busca → Decodificação → Execução (fetch-decode-execute) ✅
 - Hierarquia de memória: Cache (L1/L2/L3) → RAM → HD/SSD (rápida/pequena → lenta/grande)✅
