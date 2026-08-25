@@ -49,3 +49,12 @@ O processador repete este ciclo infinitamente até o programa encerrar:
 ### 5. HD / SSD (Armazenamento de Massa)
 * **Onde fica:** Conectado à placa-mãe.
 * **O que é:** Não volátil. Guarda tudo de forma permanente até ser apagado. É a mais lenta e a de maior capacidade.
+
+## 3. Barramentos
+Os barramentos são as "rodovias" digitais que conectam o processador (CPU), a memória e os periféricos do computador:
+
+* **Barramento de Dados (O quê):** Transporta a informação real que está sendo processada ou armazenada (números, textos, imagens, instruções).
+
+* **Barramento de Endereços (Onde):** Indica a localização exata na memória de onde o dado deve ser lido ou onde deve ser gravado.
+
+* **Barramento de Controle (Como/Quando):** Envia os sinais de comando e sincronização (ex.: "leia agora", "escreva agora", "espere").
