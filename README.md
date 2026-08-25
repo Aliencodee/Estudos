@@ -25,6 +25,7 @@ O processador repete este ciclo infinitamente até o programa encerrar:
 ---
 
 ## 📊 2. Hierarquia de Memórias
+1-Mais rapida / 5-Mais lenta
 > **Regra de Ouro para a Prova:**
 > * Quanto mais perto da CPU $\rightarrow$ Mais rápida, mais cara e menor capacidade.
 > * Quanto mais longe (base) $\rightarrow$ Mais lenta, mais barata e maior capacidade.
