@@ -1,0 +1,260 @@
+# Guia de Estudos — Concurso CaraguaPrev 01/2026
+## Técnico em Informática | Banca: Fundação VUNESP
+
+---
+
+## 1. DADOS DO CONCURSO
+
+- **Órgão:** CaraguaPrev — Instituto de Previdência do Município de Caraguatatuba/SP
+- **Edital:** Concurso Público nº 01/2026 (Diário Oficial nº 1.947, publicado 07/08/2026)
+- **Cargo:** Técnico em Informática — 1 vaga (ampla concorrência)
+- **Salário:** R$ 3.346,76 — 40h semanais
+- **Inscrições:** 17/08/2026 a 29/09/2026 — site www.vunesp.com.br
+- **Prova objetiva:** 29/11/2026, período da tarde (cargos de nível médio)
+- **Formato:** só prova objetiva, 40 questões, 5 alternativas cada, 3 horas de duração
+- **Nota mínima:** 50 pontos em 100 — fórmula NP = (acertos × 100) ÷ 40
+- **Requisito de escolaridade (texto literal do edital):** *"Ensino médio completo acrescido de curso de instalação e manutenção de equipamento de informática (microcomputadores, impressoras e periféricos em geral) e curso de instalação e utilização de software."*
+  - ⚠️ Pendência pessoal: confirmar com o SAC da VUNESP se o diploma de ADS atende esse requisito, especialmente a parte de hardware (ver conversa anterior).
+
+### Distribuição das questões
+
+| Matéria | Nº questões | % da prova |
+|---|---|---|
+| Conhecimentos Específicos (TI) | 15 | 37,5% |
+| Língua Portuguesa | 7 | 17,5% |
+| Matemática | 7 | 17,5% |
+| Raciocínio Lógico | 6 | 15% |
+| Legislação Local | 5 | 12,5% |
+
+### Critérios de desempate (nesta ordem)
+1. Idade ≥ 60 anos (mais velho primeiro)
+2. Mais acertos em Conhecimentos Específicos
+3. Mais acertos em Língua Portuguesa
+4. Mais acertos em Matemática
+5. Mais acertos em Legislação Local
+6. Mais acertos em Raciocínio Lógico
+7. Mais velho entre os < 60 anos
+8. Quem foi jurado
+
+---✅✅✅✅✅✅✅✅✅✅(MARCAR COM ✅ PRA SABER QUE JA VI ✅)
+
+## 2. CONHECIMENTOS ESPECÍFICOS — TI (peso máximo, 15 questões)
+
+### 2.1 Arquitetura de Computadores *(ponto forte)*
+- Modelo de Von Neumann: CPU (UC + ULA + Registradores), Memória, Barramentos, E/S ✅
+- Ciclo de instrução: Busca → Decodificação → Execução (fetch-decode-execute) ✅
+- Hierarquia de memória: Cache (L1/L2/L3) → RAM → HD/SSD (rápida/pequena → lenta/grande)✅
+- Barramentos: dados (o quê) / endereços (onde) / controle (como/quando)
+
+### 2.2 Funcionamento do Microcomputador *(ponto forte)*
+- Microprocessador: clock (GHz), núcleos, arquitetura 32 x 64 bits (endereçamento de RAM)
+- ROM: memória não-volátil, armazena BIOS/UEFI
+- BIOS/UEFI: executa o POST antes de entregar controle ao SO
+- Placas de expansão: vídeo (GPU integrada x dedicada), rede (NIC)
+- Chipset: Ponte Norte (rápido: CPU, RAM, vídeo) x Ponte Sul (lento: USB, disco, rede, áudio)
+- Portas: Serial (bit a bit) x Paralela (múltiplos bits) x USB (padrão atual)
+- **Pegadinha recorrente:** cuidado com alternativas que usam "nunca", "sempre", "exclusivamente" — geralmente erradas por generalização indevida
+
+### 2.3 Montagem e Manutenção de Microcomputadores IBM-PC *(a estudar)*
+- Instalação elétrica monofásica/bifásica
+- Aterramento e eletricidade estática (pulseira antiestática, ESD)
+- Manuseio de componentes eletrônicos, procedimentos de segurança
+- Desfragmentação de disco e restauração de sistema (Windows)
+
+### 2.4 Periféricos *(a estudar)*
+- Instalação, uso e manutenção: monitor, teclado, mouse, impressora, scanner, HD, DVD, projetor multimídia, HD externo
+
+### 2.5 Sistemas Operacionais 🟡 *(parcialmente forte — comandos Linux ok)*
+- Windows 11: interface, Gerenciador de Tarefas 
+- Windows Server 2016+: administração, papéis e funções
+- Linux: comandos básicos  (chmod, chown, estrutura de diretórios como /etc), permissões, shell
+
+### 2.6 Licenças e Direitos de Programas *(a estudar)*
+- Tipos de licença (proprietária, livre, freeware, shareware, open source)
+
+### 2.7 Manutenção de Arquivos, Drivers e Dispositivos *(a estudar)*
+- Instalação/atualização de drivers, gerenciamento de dispositivos
+
+### 2.8 Instalação Física de Rede *(a estudar)*
+
+### 2.9 Redes de Computadores — Conceitos Gerais e Protocolos ⚠️ *(ponto de atenção — camadas OSI)*
+- **Switch (Camada 2 — Enlace):** encaminha dados dentro da mesma rede local, usando endereços MAC. Cria domínios de colisão separados por porta, mas mantém um único domínio de broadcast (sem VLAN).
+- **Roteador (Camada 3 — Rede):** interconecta redes diferentes, usando endereços IP. Cada interface do roteador cria um domínio de broadcast separado.
+- **Regra de ouro para fixar:** Switch = MAC = mesma rede local | Roteador = IP = entre redes diferentes
+- Hub (Camada 1 — Física): apenas repete o sinal para todas as portas, sem inteligência nenhuma
+
+### 2.10 Tipos de Rede (meio físico) 🟡 *(topologia Estrela ok)*
+- Coaxial, Par trançado, Fibra óptica, Rádio, Infravermelho
+- Topologias: Estrela , Barramento, Anel, Malha
+
+### 2.11 Montagem de Cabo Par Trançado (RJ-45) *(a estudar)*
+- Padrões de crimpagem: T568A x T568B
+- Cabo direto (mesma pontas) x cabo crossover (pontas diferentes)
+
+### 2.12 Componentes de Rede *(a estudar — reforçar após 2.9)*
+- Repetidores, Hubs, Switches, Bridges, Roteadores, Transceivers, Placas de rede
+
+### 2.13 Padrões de Rede *(a estudar)*
+- Ethernet, Fast-Ethernet, ATM, FDDI
+
+### 2.14 Protocolos de Comunicação e TCP/IP *(a estudar)*
+- Modelo TCP/IP x Modelo OSI (correspondência de camadas)
+- Protocolos principais: HTTP/HTTPS, FTP, SMTP, DNS, DHCP
+
+### 2.15 Endereçamento IP *(a estudar)*
+- IPv4: classes, máscara de sub-rede, CIDR
+- IPv6: estrutura, diferenças em relação ao IPv4
+
+### 2.16 SO para Redes: Ponto a Ponto x Cliente/Servidor *(a estudar)*
+
+### 2.17 Configuração de Rede — Windows e Linux *(a estudar)*
+
+### 2.18 Configuração de Aplicações de Rede *(a estudar)*
+- Navegadores, e-mail (POP3, IMAP, SMTP), servidores FTP
+
+### 2.19 Firewall *(a estudar)*
+- Regras de entrada/saída, filtragem de pacotes
+
+### 2.20 Políticas de Segurança de Rede *(a estudar)*
+
+### 2.21 GPO e Active Directory *(a estudar)*
+- Política de Grupo, estrutura de domínio, unidades organizacionais
+
+### 2.22 Backup Automatizado *(a estudar)*
+- Tipos de backup: completo, incremental, diferencial
+
+### 2.23 Telefonia Analógica/IP, SIP, Monitoramento Digital *(a estudar)*
+
+### 2.24 Wi-Fi com Isolamento de Usuário (Guest) *(a estudar)*
+
+### 2.25 Switch Layer 3 *(a estudar)*
+
+### 2.26 Impressora Local e de Rede *(a estudar)*
+
+### 2.27 Operação de Programas — Instalação/Desinstalação *(a estudar)*
+
+### 2.28 Procedimentos: SO, Aplicativos, Antivírus, Backup, Restauração *(a estudar)*
+
+---
+
+## 3. LÍNGUA PORTUGUESA ⚠️ *(ponto fraco — foco em gramática aplicada)*
+
+### 3.1 Leitura e Interpretação de Texto
+**As 4 pegadinhas clássicas de banca:**
+1. **Extrapolação** — alternativa afirma algo plausível, mas que o texto não disse
+2. **Inversão** — troca causa por consequência
+3. **Generalização indevida** — texto fala de caso específico, alternativa usa "todos/sempre/nunca"
+4. **Contradição sutil** — parece paráfrase, mas troca uma palavra-chave que muda o sentido ("pode"→"deve")
+
+**Regra de ouro:** a resposta certa está sempre sustentada pelo texto, nunca pelo seu conhecimento de mundo.
+
+### 3.2 Sinônimos e Antônimos ⚠️
+- **Sinônimo contextual:** o sentido certo depende do contexto da frase, não do sentido "genérico" da palavra
+- **Cuidado ao ler o comando:** confira sempre se a questão pede sinônimo (sentido parecido) ou antônimo (sentido oposto) — erro identificado no diagnóstico
+
+### 3.3 Sentido Próprio e Figurado *(a estudar)*
+
+### 3.4 Pontuação *(a estudar)*
+
+### 3.5 Classes de Palavras *(a estudar)*
+- Substantivo, adjetivo, numeral, artigo, pronome, verbo, advérbio, preposição, conjunção
+
+### 3.6 Concordância Verbal e Nominal *(a estudar)*
+
+### 3.7 Regência Verbal e Nominal *(a estudar)*
+
+### 3.8 Colocação Pronominal *(a estudar)*
+
+### 3.9 Crase *(a estudar)*
+
+### 🔴 Reforço prioritário (indicado pelo usuário)
+- Plural de substantivos compostos (ex: guarda-chuva → guarda-chuvas; couve-flor → couves-flores)
+- Funções sintáticas (sujeito, predicado, complementos, adjuntos)
+
+---
+
+## 4. MATEMÁTICA 🟢 *(ponto forte relativo)*
+
+### 4.1 Operações com Racionais *(a estudar)*
+### 4.2 MMC e MDC *(a estudar)*
+### 4.3 Porcentagem  *(ponto forte — financeira)*
+### 4.4 Razão e Proporção *(a estudar)*
+### 4.5 Regra de Três Simples ou Composta  *(ponto forte)*
+### 4.6 Equações do 1º e 2º grau *(a estudar)*
+### 4.7 Sistema de Equações do 1º grau *(a estudar)*
+### 4.8 Grandezas e Medidas *(a estudar)*
+- Tempo, comprimento, superfície, capacidade, massa
+### 4.9 Relação entre Grandezas (tabela/gráfico) *(a estudar)*
+### 4.10 Média Aritmética Simples *(a estudar)*
+### 4.11 Geometria *(a estudar)*
+- Forma, ângulos, área, perímetro, volume
+- Teorema de Pitágoras e Teorema de Tales
+
+---
+
+## 5. RACIOCÍNIO LÓGICO ⚠️ *(ponto fraco — foco em lógica proposicional)*
+
+### 5.1 Estruturas Lógicas *(a estudar)*
+- Proposições, negação, conjunção (E), disjunção inclusiva (OU), condicional (SE...ENTÃO), bicondicional (SE E SOMENTE SE)
+- Quantificadores universais (todo, nenhum) e existenciais (algum)
+- Negação de proposições — regra prática: negar "todo A é B" vira "algum A não é B"
+
+### 🔴 Reforço prioritário (indicado pelo usuário)
+- **Equivalências lógicas da condicional:** "Se P, então Q" (P→Q) é logicamente equivalente à sua **contrapositiva**: "Se não Q, então não P" (~Q→~P)
+  - Atenção: a condicional NÃO é equivalente à sua recíproca (Q→P) nem à sua inversa (~P→~Q) — essas são pegadinhas comuns
+- **Sequências lógicas mistas** (numéricas + figurais combinadas): praticar identificação de padrão passo a passo, sem pular etapas
+
+### 5.2 Lógica de Argumentação *(a estudar)*
+- Conceito de argumento válido, regras de inferência, dedução
+
+### 5.3 Raciocínio Sequencial *(a estudar)*
+- Sequências numéricas ou figurais
+
+---
+
+## 6. LEGISLAÇÃO LOCAL 🔴 *(zero base — prioridade alta)*
+
+### 6.1 Lei Complementar Municipal nº 59/2015
+- Reorganização do Regime Próprio de Previdência Social de Caraguatatuba *(a estudar)*
+
+### 6.2 Lei Complementar Municipal nº 25/2007 — Estatuto dos Servidores
+
+**Formas de PROVIMENTO (retorno ao cargo) já estudadas:**
+- **Reversão:** servidor **aposentado** (por invalidez considerada insubsistente) retorna à atividade. Chave mental: "reverter a aposentadoria".
+- **Recondução:** servidor **estável** retorna ao cargo anterior após reprovação em estágio probatório de outro cargo, ou anulação de exoneração. Chave mental: "volta por não ter dado certo em outro lugar".
+
+**Formas de VACÂNCIA (cargo fica vago) já estudadas:**
+- **Exoneração:** saída **sem punição** — a pedido do servidor ou de ofício (ex: não tomou posse no prazo). Chave mental: "sem culpa".
+- **Demissão:** saída **com punição**, decorrente de processo disciplinar. Chave mental: "com culpa".
+
+**Pegadinha mais comum:** confundir Exoneração (neutra) com Demissão (punitiva) — e confundir Reversão (envolve aposentadoria) com Recondução (envolve estágio probatório/outro cargo).
+
+*(Restante do Estatuto — ainda a estudar: direitos, deveres, regime disciplinar, estágio probatório completo, licenças, outras formas de provimento como Nomeação, Promoção, Readaptação, Aproveitamento)*
+
+---
+
+## 7. REGISTRO DE DESEMPENHO (atualizar a cada sessão)
+
+| Data | Tópico | Questões | Acertos | % |
+|---|---|---|---|---|
+| Sessão 1 | Arquitetura de Computadores | 5 | 5 | 100% |
+| Sessão 1 | Funcionamento do Microcomputador | 5 | 4 | 80% |
+| Sessão 2 | Português — Interpretação + Sinônimos/Antônimos | 5 | 3 | 60% |
+| Sessão 2 | Legislação Local — Provimento/Vacância | 5 | *(pendente)* | — |
+| — | Simulado 1 (geral) | — | — | 58% |
+| — | Simulado 2 (geral) | — | — | 75% |
+
+**Total de questões respondidas até agora: 15 | Acertos: 12 (80%)**
+
+---
+
+## 8. PRÓXIMOS PASSOS SUGERIDOS
+
+1. Fechar o teste de Legislação Local (Provimento/Vacância) em andamento
+2. Bloco de TI: Switch x Roteador (Camada 2 x Camada 3) — aprofundar o que já está no item 2.9 acima
+3. Seguir cronograma semanal (Fase 1 — Fundamentos, até 28/09)
+4. Resolver pendência do requisito de escolaridade com o SAC da VUNESP
+
+---
+
+*Documento vivo — atualizar após cada sessão de estudo com novos tópicos, desempenho em testes e pontos de reforço identificados.*
