@@ -175,7 +175,7 @@
 
 ## 4. MATEMÁTICA 🟢 *(ponto forte relativo)*
 
-### 4.1 Operações com Racionais *(a estudar)*
+### 4.1 Operações com Racionais *(a estudar)*✅
 ### 4.2 MMC e MDC *(a estudar)*
 ### 4.3 Porcentagem  *(ponto forte — financeira)*
 ### 4.4 Razão e Proporção *(a estudar)*
