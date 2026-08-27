@@ -46,7 +46,7 @@
 - Hierarquia de memória: Cache (L1/L2/L3) → RAM → HD/SSD (rápida/pequena → lenta/grande)✅
 - Barramentos: dados (o quê) / endereços (onde) / controle (como/quando)✅
 
-### 2.2 Funcionamento do Microcomputador *(ponto forte)*
+### 2.2 Funcionamento do Microcomputador *(ponto forte)* **SIMULADO 4/5**
 - Microprocessador: clock (GHz), núcleos, arquitetura 32 x 64 bits (endereçamento de RAM)✅
 - ROM: memória não-volátil, armazena BIOS/UEFI✅
 - BIOS/UEFI: executa o POST antes de entregar controle ao SO✅
