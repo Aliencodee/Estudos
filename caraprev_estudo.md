@@ -47,7 +47,7 @@
 - Barramentos: dados (o quê) / endereços (onde) / controle (como/quando)✅
 
 ### 2.2 Funcionamento do Microcomputador *(ponto forte)*
-- Microprocessador: clock (GHz), núcleos, arquitetura 32 x 64 bits (endereçamento de RAM)
+- Microprocessador: clock (GHz), núcleos, arquitetura 32 x 64 bits (endereçamento de RAM)✅
 - ROM: memória não-volátil, armazena BIOS/UEFI
 - BIOS/UEFI: executa o POST antes de entregar controle ao SO
 - Placas de expansão: vídeo (GPU integrada x dedicada), rede (NIC)
