@@ -48,12 +48,12 @@
 
 ### 2.2 Funcionamento do Microcomputador *(ponto forte)*
 - Microprocessador: clock (GHz), núcleos, arquitetura 32 x 64 bits (endereçamento de RAM)✅
-- ROM: memória não-volátil, armazena BIOS/UEFI
-- BIOS/UEFI: executa o POST antes de entregar controle ao SO
+- ROM: memória não-volátil, armazena BIOS/UEFI✅
+- BIOS/UEFI: executa o POST antes de entregar controle ao SO✅
 - Placas de expansão: vídeo (GPU integrada x dedicada), rede (NIC)
-- Chipset: Ponte Norte (rápido: CPU, RAM, vídeo) x Ponte Sul (lento: USB, disco, rede, áudio)
-- Portas: Serial (bit a bit) x Paralela (múltiplos bits) x USB (padrão atual)
-- **Pegadinha recorrente:** cuidado com alternativas que usam "nunca", "sempre", "exclusivamente" — geralmente erradas por generalização indevida
+- Chipset: Ponte Norte (rápido: CPU, RAM, vídeo) x Ponte Sul (lento: USB, disco, rede, áudio)✅
+- Portas: Serial (bit a bit) x Paralela (múltiplos bits) x USB (padrão atual)✅
+- **Pegadinha recorrente:** cuidado com alternativas que usam "nunca", "sempre", "exclusivamente" — geralmente erradas por generalização indevida✅
 
 ### 2.3 Montagem e Manutenção de Microcomputadores IBM-PC *(a estudar)*
 - Instalação elétrica monofásica/bifásica
