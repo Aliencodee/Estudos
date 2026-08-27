@@ -67,3 +67,10 @@ Os barramentos são as "rodovias" digitais que conectam o processador (CPU), a m
 * **Arquitetura 32 vs 64 bits:** Capacidade de processamento de dados por ciclo e limite de endereçamento de memória RAM:
   * **32 bits:** Suporta no máximo **4 GB de RAM**.
   * **64 bits:** Suporta muito mais de 4 GB de RAM (vários GBs/TBs) e lida com blocos maiores de dados.
+
+## 💾 Resumo Técnico: Memória ROM, BIOS e UEFI
+
+* **ROM (Read-Only Memory):** Memória **não-volátil** (os dados não se apagam quando o computador é desligado). Vem gravada de fábrica na placa-mãe.
+* **Função Principal:** Armazena o firmware de inicialização do sistema (**BIOS** ou **UEFI**), responsável por fazer o autoteste do hardware (POST) e carregar o sistema operacional na memória RAM.
+* **BIOS (Basic Input/Output System):** É o primeiro software que roda ao ligar o PC. Ele testa os componentes físicos (POST) e dá o "pontapé inicial" para carregar o Sistema Operacional (Windows/Linux).
+* **UEFI:** É a **evolução da BIOS**. Faz a mesma coisa, mas é muito mais moderna: tem interface gráfica (dá para usar o mouse), é mais rápida, suporta HDs/SSDs maiores e é mais segura (possui o *Secure Boot*).
