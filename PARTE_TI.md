@@ -87,3 +87,11 @@ Os barramentos são as "rodovias" digitais que conectam o processador (CPU), a m
 
 ---
 ⚠️ **Alerta de Casca de Banana (VUNESP):** Cuidado com alternativas que usam **"nunca"**, **"sempre"**, **"exclusivamente"** ou **"totalmente"**. Elas costumam ser falsas devido à generalização indevida!
+
+## 🖥️ Resumo Técnico: Placas de Expansão e GPU
+
+* **Placas de Expansão:** Placas de circuito impresso encaixadas nos slots da placa-mãe (como slots PCIe) para adicionar novas funcionalidades ou melhorar o desempenho do computador.
+* **Placa de Vídeo (GPU):**
+  * **GPU Integrada:** Vem embutida no próprio processador (CPU) ou na placa-mãe. Usa uma parcela da memória RAM principal como memória de vídeo. É mais econômica e ideal para tarefas do dia a dia (navegação, escritório).
+  * **GPU Dedicada (Placa de Vídeo Offboard):** É um componente separado com seu próprio chip gráfico poderoso e sua própria memória de vídeo dedicada (VRAM). Oferece alto desempenho para jogos pesados, edição de vídeo e modelagem 3D.
+* **Placa de Rede (NIC - Network Interface Card):** O componente responsável por conectar o computador a uma rede local (LAN) ou à internet. Pode ser cabeada (Ethernet/RJ45) ou sem fio (Wi-Fi), permitindo o envio e recebimento de pacotes de dados.
