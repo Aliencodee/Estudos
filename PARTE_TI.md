@@ -58,3 +58,12 @@ Os barramentos são as "rodovias" digitais que conectam o processador (CPU), a m
 * **Barramento de Endereços (Onde):** Indica a localização exata na memória de onde o dado deve ser lido ou onde deve ser gravado.
 
 * **Barramento de Controle (Como/Quando):** Envia os sinais de comando e sincronização (ex.: "leia agora", "escreva agora", "espere").
+
+
+## 💻 Resumo Técnico: Microprocessador
+
+* **Clock (GHz):** Velocidade do processador. Mede quantos ciclos de instrução ele consegue executar por segundo (quanto maior o GHz, mais rápido).
+* **Núcleos (Cores):** Divisões físicas independentes na CPU. Permitem a execução de múltiplas tarefas simultaneamente (multitarefa real).
+* **Arquitetura 32 vs 64 bits:** Capacidade de processamento de dados por ciclo e limite de endereçamento de memória RAM:
+  * **32 bits:** Suporta no máximo **4 GB de RAM**.
+  * **64 bits:** Suporta muito mais de 4 GB de RAM (vários GBs/TBs) e lida com blocos maiores de dados.
