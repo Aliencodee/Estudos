@@ -74,3 +74,16 @@ Os barramentos são as "rodovias" digitais que conectam o processador (CPU), a m
 * **Função Principal:** Armazena o firmware de inicialização do sistema (**BIOS** ou **UEFI**), responsável por fazer o autoteste do hardware (POST) e carregar o sistema operacional na memória RAM.
 * **BIOS (Basic Input/Output System):** É o primeiro software que roda ao ligar o PC. Ele testa os componentes físicos (POST) e dá o "pontapé inicial" para carregar o Sistema Operacional (Windows/Linux).
 * **UEFI:** É a **evolução da BIOS**. Faz a mesma coisa, mas é muito mais moderna: tem interface gráfica (dá para usar o mouse), é mais rápida, suporta HDs/SSDs maiores e é mais segura (possui o *Secure Boot*).
+
+* ## 🔌 Resumo Técnico: Chipset e Portas de E/S
+
+* **Chipset (Arquitetura Tradicional):** O conjunto de chips da placa-mãe dividido em duas pontes principais:
+  * **Ponte Norte (Northbridge):** O lado "rápido". Conecta diretamente a CPU, a memória RAM e a placa de vídeo de alto desempenho. *(Nota moderna: hoje em dia, boa parte disso foi integrada diretamente dentro do próprio processador).*
+  * **Ponte Sul (Southbridge):** O lado "lento". Gerencia os periféricos de menor velocidade e dispositivos de entrada/saída, como portas USB, discos (SATA/IDE), rede e áudio.
+* **Portas de Comunicação:**
+  * **Serial:** Transmite os dados de forma sequencial, **bit a bit** (um após o outro por um único canal). É mais lenta e usada antigamente para modems ou mouses seriais.
+  * **Paralela:** Transmite **múltiplos bits simultaneamente** em paralelo (vários fios lado a lado). Era muito usada antigamente para impressoras legadas.
+  * **USB (Universal Serial Bus):** O padrão atual, rápido, universal e *hot-swappable* (permite conectar/desconectar com o PC ligado).
+
+---
+⚠️ **Alerta de Casca de Banana (VUNESP):** Cuidado com alternativas que usam **"nunca"**, **"sempre"**, **"exclusivamente"** ou **"totalmente"**. Elas costumam ser falsas devido à generalização indevida!
