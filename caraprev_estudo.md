@@ -149,12 +149,12 @@
 **Regra de ouro:** a resposta certa está sempre sustentada pelo texto, nunca pelo seu conhecimento de mundo.✅
 
 ### 3.2 Sinônimos e Antônimos ⚠️
-- **Sinônimo contextual:** o sentido certo depende do contexto da frase, não do sentido "genérico" da palavra
-- **Cuidado ao ler o comando:** confira sempre se a questão pede sinônimo (sentido parecido) ou antônimo (sentido oposto) — erro identificado no diagnóstico
+- **Sinônimo contextual:** o sentido certo depende do contexto da frase, não do sentido "genérico" da palavra✅
+- **Cuidado ao ler o comando:** confira sempre se a questão pede sinônimo (sentido parecido) ou antônimo (sentido oposto) — erro identificado no diagnóstico✅
 
-### 3.3 Sentido Próprio e Figurado *(a estudar)*
+### 3.3 Sentido Próprio e Figurado *(a estudar)*✅
 
-### 3.4 Pontuação *(a estudar)*
+### 3.4 Pontuação *(a estudar)*✅
 
 ### 3.5 Classes de Palavras *(a estudar)*
 - Substantivo, adjetivo, numeral, artigo, pronome, verbo, advérbio, preposição, conjunção
