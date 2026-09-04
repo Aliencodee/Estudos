@@ -212,24 +212,50 @@
 
 ---
 
-## 6. LEGISLAÇÃO LOCAL 🔴 *(zero base — prioridade alta)*
+## 6. LEGISLAÇÃO LOCAL 🔴 *(zero base — prioridade alta)*✅
 
-### 6.1 Lei Complementar Municipal nº 59/2015
-- Reorganização do Regime Próprio de Previdência Social de Caraguatatuba *(a estudar)*
+### 6.1 Lei Complementar Municipal nº 59/2015✅
+- Reorganização do Regime Próprio de Previdência Social de Caraguatatuba *(a estudar)*✅
 
-### 6.2 Lei Complementar Municipal nº 25/2007 — Estatuto dos Servidores
+### 6.2 Lei Complementar Municipal nº 25/2007 — Estatuto dos Servidores✅
 
-**Formas de PROVIMENTO (retorno ao cargo) já estudadas:**
-- **Reversão:** servidor **aposentado** (por invalidez considerada insubsistente) retorna à atividade. Chave mental: "reverter a aposentadoria".
-- **Recondução:** servidor **estável** retorna ao cargo anterior após reprovação em estágio probatório de outro cargo, ou anulação de exoneração. Chave mental: "volta por não ter dado certo em outro lugar".
+**Formas de PROVIMENTO (retorno ao cargo) já estudadas:**✅
+- **Reversão:** servidor **aposentado** (por invalidez considerada insubsistente) retorna à atividade. Chave mental: "reverter a aposentadoria".✅
+- **Recondução:** servidor **estável** retorna ao cargo anterior após reprovação em estágio probatório de outro cargo, ou anulação de exoneração. Chave mental: "volta por não ter dado certo em outro lugar".✅
 
-**Formas de VACÂNCIA (cargo fica vago) já estudadas:**
-- **Exoneração:** saída **sem punição** — a pedido do servidor ou de ofício (ex: não tomou posse no prazo). Chave mental: "sem culpa".
-- **Demissão:** saída **com punição**, decorrente de processo disciplinar. Chave mental: "com culpa".
+**Formas de VACÂNCIA (cargo fica vago) já estudadas:**✅
+- **Exoneração:** saída **sem punição** — a pedido do servidor ou de ofício (ex: não tomou posse no prazo). Chave mental: "sem culpa".✅
+- **Demissão:** saída **com punição**, decorrente de processo disciplinar. Chave mental: "com culpa".✅
 
-**Pegadinha mais comum:** confundir Exoneração (neutra) com Demissão (punitiva) — e confundir Reversão (envolve aposentadoria) com Recondução (envolve estágio probatório/outro cargo).
+**Pegadinha mais comum:** confundir Exoneração (neutra) com Demissão (punitiva) — e confundir Reversão (envolve aposentadoria) com Recondução (envolve estágio probatório/outro cargo).✅
 
-*(Restante do Estatuto — ainda a estudar: direitos, deveres, regime disciplinar, estágio probatório completo, licenças, outras formas de provimento como Nomeação, Promoção, Readaptação, Aproveitamento)*
+*(Restante do Estatuto — ainda a estudar: direitos, deveres, regime disciplinar, estágio probatório completo, licenças, outras formas de provimento como Nomeação, Promoção, Readaptação, Aproveitamento)*✅
+
+Formas de Provimento (Entrada ou Retorno)✅
+
+Nomeação: Início de tudo (forma originária). Pode ser efetivo ou comissão.✅
+
+Promoção: Sobe de nível/classe na carreira (por antiguidade ou merecimento).✅
+
+Readaptação: Mudança de cargo por limitação física ou mental.✅
+
+Reversão: Retorno de servidor aposentado por invalidez (cessou a incapacidade). Chave: Aposentadoria.✅
+
+Recondução: Retorno ao cargo anterior porque deu errado em outro (reprovado em estágio probatório). Chave: Voltar para trás.✅
+
+Aproveitamento: Retorno de servidor que estava em disponibilidade (cargo foi extinto).✅
+
+Formas de Vacância (O Cargo Fica Vago)✅
+
+Exoneração: Saída sem punição (a pedido ou porque não tomou posse). Chave: Neutro/Sem culpa.✅
+
+Demissão: Saída com punição via PAD. Chave: Castigo/Com culpa.✅
+
+Promoção / Readaptação: Sobe ou muda de cargo, deixando o anterior vago.✅
+
+Posse em outro cargo inacumulável: Passou em outro concurso e assumiu.✅
+
+Aposentadoria / Falecimento: Saída definitiva por idade/tempo ou morte.✅
 
 ---
 
