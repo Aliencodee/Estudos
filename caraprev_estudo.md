@@ -192,23 +192,23 @@
 
 ---
 
-## 5. RACIOCÍNIO LÓGICO ⚠️ *(ponto fraco — foco em lógica proposicional)*
+## 5. RACIOCÍNIO LÓGICO ⚠️ *(ponto fraco — foco em lógica proposicional)*✅
 
-### 5.1 Estruturas Lógicas *(a estudar)*
-- Proposições, negação, conjunção (E), disjunção inclusiva (OU), condicional (SE...ENTÃO), bicondicional (SE E SOMENTE SE)
-- Quantificadores universais (todo, nenhum) e existenciais (algum)
-- Negação de proposições — regra prática: negar "todo A é B" vira "algum A não é B"
+### 5.1 Estruturas Lógicas *(a estudar)*✅
+- Proposições, negação, conjunção (E), disjunção inclusiva (OU), condicional (SE...ENTÃO), bicondicional (SE E SOMENTE SE)✅
+- Quantificadores universais (todo, nenhum) e existenciais (algum)✅
+- Negação de proposições — regra prática: negar "todo A é B" vira "algum A não é B"✅
 
-### 🔴 Reforço prioritário (indicado pelo usuário)
-- **Equivalências lógicas da condicional:** "Se P, então Q" (P→Q) é logicamente equivalente à sua **contrapositiva**: "Se não Q, então não P" (~Q→~P)
-  - Atenção: a condicional NÃO é equivalente à sua recíproca (Q→P) nem à sua inversa (~P→~Q) — essas são pegadinhas comuns
-- **Sequências lógicas mistas** (numéricas + figurais combinadas): praticar identificação de padrão passo a passo, sem pular etapas
+### 🔴 Reforço prioritário (indicado pelo usuário)✅
+- **Equivalências lógicas da condicional:** "Se P, então Q" (P→Q) é logicamente equivalente à sua **contrapositiva**: "Se não Q, então não P" (~Q→~P)✅
+  - Atenção: a condicional NÃO é equivalente à sua recíproca (Q→P) nem à sua inversa (~P→~Q) — essas são pegadinhas comuns✅
+- **Sequências lógicas mistas** (numéricas + figurais combinadas): praticar identificação de padrão passo a passo, sem pular etapas✅
 
-### 5.2 Lógica de Argumentação *(a estudar)*
-- Conceito de argumento válido, regras de inferência, dedução
+### 5.2 Lógica de Argumentação *(a estudar)*✅
+- Conceito de argumento válido, regras de inferência, dedução✅
 
-### 5.3 Raciocínio Sequencial *(a estudar)*
-- Sequências numéricas ou figurais
+### 5.3 Raciocínio Sequencial *(a estudar)*✅
+- Sequências numéricas ou figurais✅
 
 ---
 
