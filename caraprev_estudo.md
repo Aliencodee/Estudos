@@ -179,8 +179,8 @@
 ### 4.2 MMC e MDC *(a estudar)*✅
 ### 4.3 Porcentagem  *(ponto forte — financeira)*✅
 ### 4.4 Razão e Proporção *(a estudar)*✅
-### 4.5 Regra de Três Simples ou Composta  *(ponto forte)*
-### 4.6 Equações do 1º e 2º grau *(a estudar)*
+### 4.5 Regra de Três Simples ou Composta  *(ponto forte)*✅
+### 4.6 Equações do 1º e 2º grau *(a estudar)*✅
 ### 4.7 Sistema de Equações do 1º grau *(a estudar)*
 ### 4.8 Grandezas e Medidas *(a estudar)*
 - Tempo, comprimento, superfície, capacidade, massa
