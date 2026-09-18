@@ -55,19 +55,19 @@
 - Portas: Serial (bit a bit) x Paralela (múltiplos bits) x USB (padrão atual)✅
 - **Pegadinha recorrente:** cuidado com alternativas que usam "nunca", "sempre", "exclusivamente" — geralmente erradas por generalização indevida✅
 
-### 2.3 Montagem e Manutenção de Microcomputadores IBM-PC *(a estudar)*
-- Instalação elétrica monofásica/bifásica
-- Aterramento e eletricidade estática (pulseira antiestática, ESD)
-- Manuseio de componentes eletrônicos, procedimentos de segurança
-- Desfragmentação de disco e restauração de sistema (Windows)
-
+### 2.3 Montagem e Manutenção de Microcomputadores IBM-PC *(a estudar)*✅
+- Instalação elétrica monofásica/bifásica✅
+- Aterramento e eletricidade estática (pulseira antiestática, ESD)✅
+- Manuseio de componentes eletrônicos, procedimentos de segurança✅
+- Desfragmentação de disco e restauração de sistema (Windows)✅
+✅
 ### 2.4 Periféricos *(a estudar)*
-- Instalação, uso e manutenção: monitor, teclado, mouse, impressora, scanner, HD, DVD, projetor multimídia, HD externo
+- Instalação, uso e manutenção: monitor, teclado, mouse, impressora, scanner, HD, DVD, projetor multimídia, HD externo✅
 
-### 2.5 Sistemas Operacionais 🟡 *(parcialmente forte — comandos Linux ok)*
-- Windows 11: interface, Gerenciador de Tarefas 
-- Windows Server 2016+: administração, papéis e funções
-- Linux: comandos básicos  (chmod, chown, estrutura de diretórios como /etc), permissões, shell
+### 2.5 Sistemas Operacionais 🟡 *(parcialmente forte — comandos Linux ok)*✅
+- Windows 11: interface, Gerenciador de Tarefas ✅
+- Windows Server 2016+: administração, papéis e funções✅
+- Linux: comandos básicos  (chmod, chown, estrutura de diretórios como /etc), permissões, shell✅
 
 ### 2.6 Licenças e Direitos de Programas *(a estudar)*
 - Tipos de licença (proprietária, livre, freeware, shareware, open source)
