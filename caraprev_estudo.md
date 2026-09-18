@@ -156,8 +156,8 @@
 
 ### 3.4 Pontuação *(a estudar)*✅
 
-### 3.5 Classes de Palavras *(a estudar)*
-- Substantivo, adjetivo, numeral, artigo, pronome, verbo, advérbio, preposição, conjunção
+### 3.5 Classes de Palavras *(a estudar)*✅
+- Substantivo, adjetivo, numeral, artigo, pronome, verbo, advérbio, preposição, conjunção✅
 
 ### 3.6 Concordância Verbal e Nominal *(a estudar)*
 
@@ -184,7 +184,7 @@
 ### 4.7 Sistema de Equações do 1º grau *(a estudar)*✅
 ### 4.8 Grandezas e Medidas *(a estudar)*✅
 - Tempo, comprimento, superfície, capacidade, massa
-### 4.9 Relação entre Grandezas (tabela/gráfico) *(a estudar)*
+### 4.9 Relação entre Grandezas (tabela/gráfico) *(a estudar)*✅
 ### 4.10 Média Aritmética Simples *(a estudar)*
 ### 4.11 Geometria *(a estudar)*
 - Forma, ângulos, área, perímetro, volume
